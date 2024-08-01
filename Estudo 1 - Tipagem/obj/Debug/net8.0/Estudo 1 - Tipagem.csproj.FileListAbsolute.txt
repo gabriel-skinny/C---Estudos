@@ -1,0 +1,14 @@
+C:\Users\caton\OneDrive\Documentos\C# Estudos\Estudo 1 - Tipagem\bin\Debug\net8.0\Estudo 1 - Tipagem.exe
+C:\Users\caton\OneDrive\Documentos\C# Estudos\Estudo 1 - Tipagem\bin\Debug\net8.0\Estudo 1 - Tipagem.deps.json
+C:\Users\caton\OneDrive\Documentos\C# Estudos\Estudo 1 - Tipagem\bin\Debug\net8.0\Estudo 1 - Tipagem.runtimeconfig.json
+C:\Users\caton\OneDrive\Documentos\C# Estudos\Estudo 1 - Tipagem\bin\Debug\net8.0\Estudo 1 - Tipagem.dll
+C:\Users\caton\OneDrive\Documentos\C# Estudos\Estudo 1 - Tipagem\bin\Debug\net8.0\Estudo 1 - Tipagem.pdb
+C:\Users\caton\OneDrive\Documentos\C# Estudos\Estudo 1 - Tipagem\obj\Debug\net8.0\Estudo 1 - Tipagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caton\OneDrive\Documentos\C# Estudos\Estudo 1 - Tipagem\obj\Debug\net8.0\Estudo 1 - Tipagem.AssemblyInfoInputs.cache
+C:\Users\caton\OneDrive\Documentos\C# Estudos\Estudo 1 - Tipagem\obj\Debug\net8.0\Estudo 1 - Tipagem.AssemblyInfo.cs
+C:\Users\caton\OneDrive\Documentos\C# Estudos\Estudo 1 - Tipagem\obj\Debug\net8.0\Estudo 1 - Tipagem.csproj.CoreCompileInputs.cache
+C:\Users\caton\OneDrive\Documentos\C# Estudos\Estudo 1 - Tipagem\obj\Debug\net8.0\Estudo 1 - Tipagem.dll
+C:\Users\caton\OneDrive\Documentos\C# Estudos\Estudo 1 - Tipagem\obj\Debug\net8.0\refint\Estudo 1 - Tipagem.dll
+C:\Users\caton\OneDrive\Documentos\C# Estudos\Estudo 1 - Tipagem\obj\Debug\net8.0\Estudo 1 - Tipagem.pdb
+C:\Users\caton\OneDrive\Documentos\C# Estudos\Estudo 1 - Tipagem\obj\Debug\net8.0\Estudo 1 - Tipagem.genruntimeconfig.cache
+C:\Users\caton\OneDrive\Documentos\C# Estudos\Estudo 1 - Tipagem\obj\Debug\net8.0\ref\Estudo 1 - Tipagem.dll
